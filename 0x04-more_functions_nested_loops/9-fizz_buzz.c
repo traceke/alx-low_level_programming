@@ -1,6 +1,6 @@
 #include <stdio.h>
 /**
- * main - prints 1 to 100. 
+ * main - prints 1 to 100.
  * For every multiple of 3 prints 'Fizz'
  * For every multiple of 5 prints 'Buzz'
  * For multiples of 3 and 5, prints 'FizzBuzz'
@@ -29,6 +29,11 @@ int main(void)
 		{
 			printf("%d ", i);
 		}
+		if (i == 100 && i % 5 == 0)
+		{
+			printf("Fizz");
+		}
 	}
+	printf("\n");
 	return (0);
 }
