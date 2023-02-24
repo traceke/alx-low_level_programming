@@ -38,9 +38,6 @@ long int largest_prime_factor(long int num)
  * main - prints the largest prime factor of
  * 612852475143 and a new line
  *
- * @num: the number whose prime factor will
- * be calculated
- *
  * Return: returns 0 (success)
  */
 int main(void)
