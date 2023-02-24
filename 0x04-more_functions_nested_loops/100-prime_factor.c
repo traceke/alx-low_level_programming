@@ -17,7 +17,7 @@ int main(void)
 			printf("%d ", i);
 			num = num / i;
 		}
-		else 
+		else
 			i++;
 	}
 	return (0);
