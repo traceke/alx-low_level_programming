@@ -1,12 +1,11 @@
-##C - malloc, free
+## C - malloc, free
+		
+		
+#### TASKS
 		
 
 		
-####TASKS
-		
-
-		
-####[0. Float like a butterfly, sting like a bee](0-create_array.c)
+#### [0. Float like a butterfly, sting like a bee](0-create_array.c)
 		
 
 		
@@ -22,7 +21,7 @@
 		
 
 		
-####[1. The woman who has no imagination has no wings](1-strdup.c)
+#### [1. The woman who has no imagination has no wings](1-strdup.c)
 		
 
 		
@@ -58,7 +57,7 @@ if NULL is passed, treat it as an empty string
 		
 
 		
-####[3. If you even dream of beating me you'd better wake up and apologize](3-alloc_grid.c)
+#### [3. If you even dream of beating me you'd better wake up and apologize](3-alloc_grid.c)
 		
 
 		
@@ -76,21 +75,21 @@ if NULL is passed, treat it as an empty string
 		
 
 		
-####[4. It's not bragging if you can back it up](4-free_grid.c)
+#### [4. It's not bragging if you can back it up](4-free_grid.c)
 		
 
 		
-Write a function that frees a 2 dimensional grid previously created by your alloc_grid function.
+- Write a function that frees a 2 dimensional grid previously created by your alloc_grid function.
 		
 
 		
-Prototype: void free_grid(int **grid, int height);
+- Prototype: void free_grid(int **grid, int height);
 		
-Note that we will compile with your alloc-grid.c file. Make sure it compiles.
+- Note that we will compile with your alloc-grid.c file. Make sure it compiles.
 		
 
 		
-####[5. It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe](100-argstostr.c)
+#### [5. It isn't the mountains ahead to climb that wear you out; it's the pebble in your shoe](100-argstostr.c)
 		
 
 		
@@ -108,7 +107,7 @@ Note that we will compile with your alloc-grid.c file. Make sure it compiles.
 		
 
 		
-####[6. I will show you how great I am] (101-strtow.c)
+#### [6. I will show you how great I am] (101-strtow.c)
 		
 
 		
